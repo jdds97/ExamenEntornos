@@ -2,7 +2,36 @@ package TestPersonalidad;
 
 public class MétodosTest {
 
-	public static void main(String[] args) {
+	public static void Test(String[] args) {
+		int respuestasInstagram;
+		int respuestasWhatsapp;
+		int respuestasTwitch;
+		int respuestasTikTok;
+		
+	}
+		public static int Pregunta1(int preguntasFinal)
+		System.out.println("¿?");
+		int respuestasInstagram;
+		int respuestasWhatsapp;
+		int respuestasTwitch;
+		int respuestasTikTok;
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
 		int preguntas;
 		int respuestasInstagram;
 		int respuestasWhatsapp;
